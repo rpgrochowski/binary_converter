@@ -1,3 +1,4 @@
+print("Binary converter v.1.0:)
 #convert decimal to binary
 def decimal_convert(decimal):
     decimal=int(decimal)
